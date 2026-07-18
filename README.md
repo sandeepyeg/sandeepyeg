@@ -12,34 +12,19 @@
 
 I'm a **Software Developer II** based in Edmonton, Alberta. I work across **.NET**, **Angular**, **TypeScript**, **Azure**, **AWS**, APIs, background workers, integrations, CI/CD and production support.
 
-I care about software that stays understandable after deployment: clear boundaries, useful logs, reliable workflows, good tests and practical UX. I also use AI-assisted development for codebase research, debugging, test planning and documentation, while keeping the final engineering decisions human-owned.
+I like building software that stays understandable after deployment: clear boundaries, useful logs, reliable workflows, good tests and practical UX. I also use AI-assisted development for codebase research, debugging, test planning and documentation, while keeping the final engineering decisions human-owned.
 
-## Focus
+## Engineering Focus
 
-- **Backend:** C#, .NET, ASP.NET Core, EF Core, REST APIs, worker services
-- **Frontend:** Angular, TypeScript, RxJS, SCSS, workflow-heavy business UI
-- **Cloud:** Azure, AWS, Docker, GitHub Actions, Azure DevOps, observability
-- **Systems:** queues, retries, callbacks, dead-letter handling, structured logging
-- **AI:** LLM APIs, RAG, embeddings, AI agents and AI-assisted developer tooling
+| Area | What I enjoy building |
+| --- | --- |
+| Backend systems | ASP.NET Core APIs, EF Core, worker services, validation, auth, integrations and production troubleshooting |
+| Frontend systems | Angular, TypeScript, forms, workflow screens, state handling, API clients and responsive business UI |
+| Cloud delivery | Azure, AWS, Docker, GitHub Actions, Azure DevOps, deployments, logs and observability |
+| Distributed workflows | Queues, retries, callbacks, dead-letter handling, background processing and status tracking |
+| AI engineering | LLM APIs, RAG, embeddings, AI agents, AI-assisted tooling and grounded workflow automation |
 
-## Featured Work
-
-- [**LiteQueue.NET**](https://github.com/sandeepyeg/LiteQueue.NET)  
-  Redis-powered .NET message queue with delayed jobs, retries, DLQ, pub/sub and background workers.
-
-- [**Aspire Angular Clean Template**](https://github.com/sandeepyeg/aspire-angular-clean-template)  
-  .NET Aspire + Angular Clean Architecture starter with PostgreSQL, Identity, Serilog and OpenTelemetry.
-
-- [**DeliverCheck Platform**](https://github.com/sandeepyeg/delivercheck-platform)  
-  Delivery workflow platform template with driver-facing flows and operational status tracking.
-
-- [**Telegram Budget Assistant**](https://github.com/sandeepyeg/telegram-budget-assistant)  
-  AI-powered finance assistant for transaction categorization and conversational budget insights.
-
-- [**Jules Supervisor**](https://github.com/sandeepyeg/jules-supervisor)  
-  Developer tooling for supervising AI-assisted coding work and making automated changes easier to review.
-
-## Experience
+## Professional Work
 
 ```text
 Software Developer II · Catalis Technologies Canada Ltd
@@ -49,7 +34,51 @@ Software Developer I · Catalis Technologies Canada Ltd
 May 2024 - August 2025
 ```
 
-Professional work includes secure REST APIs, Angular features, payment and wallet workflows, asynchronous processing, callbacks, automated testing, CI/CD and production troubleshooting. Proprietary details are intentionally sanitized.
+My professional work includes secure REST APIs, Angular features, payment and wallet workflows, asynchronous processing, callbacks, automated testing, CI/CD and production troubleshooting. Proprietary client details are intentionally sanitized, but the engineering themes are reliability, traceability and maintainability.
+
+## Freelance And Client Work
+
+Alongside enterprise development, I build websites and internal tools for small businesses and professional services. That work keeps me close to real users, business owners and conversion-focused product decisions.
+
+Recent client work includes:
+
+- Restaurant, appraisal, accounting, construction, landscaping and logistics websites
+- Responsive marketing pages with strong service structure and mobile-first layouts
+- Quote/contact flows, menu experiences, galleries, service sections and SEO metadata
+- Internal dashboards, booking systems, client portals and automation scripts
+
+Selected public sites:
+
+- [Saffron Indian Cuisine](https://saffronchefs.ca)
+- [Express Appraisals](https://expressappraisals.ca)
+- [Canada Wide Appraisals](https://canadawideappraisals.com)
+- [Smart Accounting & Tax Consultancy](https://www.smartaccounting.org/ui/index.php)
+- [Legacy Custom Homes](https://www.legacycustomhome.ca)
+- [River City Grading](https://rivercitygrading.ca/)
+- [Total Delivery Solution](https://totaldeliverysolution.ca/)
+
+## AI And Developer Tooling Vision
+
+I am interested in AI that makes software more useful without making systems less trustworthy.
+
+- AI should help with search, language, summarization, classification and workflow assistance.
+- Deterministic backend logic should still own facts, permissions, totals, payments and irreversible actions.
+- RAG systems should cite sources and make uncertainty visible.
+- AI coding agents should improve momentum, but developers still need to review architecture, security, tests and operational impact.
+
+The AI projects I want to keep exploring are document intelligence, agent task orchestration, finance assistants, code-review tooling and practical workflow automation.
+
+## What I Write And Think About
+
+I like writing about engineering lessons from real systems:
+
+- reliable callbacks and webhook delivery
+- queue-based processing, retries and dead-letter design
+- production troubleshooting across APIs, workers, databases and client endpoints
+- structured logging that actually helps support work
+- Angular applications for business workflows
+- AI coding agents as force multipliers, not replacements for engineering judgment
+- why architecture still matters when code generation gets faster
 
 ## Education
 
