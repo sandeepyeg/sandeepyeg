@@ -9,6 +9,7 @@ I build reliable enterprise applications, cloud integrations, background workflo
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandeepbuilds.com-5b6cff?style=for-the-badge)](https://sandeepbuilds.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johalsandeep-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/johalsandeep)
 [![GitHub](https://img.shields.io/badge/GitHub-sandeepyeg-111111?style=for-the-badge&logo=github)](https://github.com/sandeepyeg)
+[![Profile README](https://img.shields.io/badge/Profile_README-source-2ea44f?style=for-the-badge&logo=markdown)](https://github.com/sandeepyeg/sandeepyeg)
 [![Location](https://img.shields.io/badge/Edmonton-Alberta-bbff45?style=for-the-badge)](#)
 
 </div>
@@ -151,6 +152,7 @@ I'm open to intermediate full-stack, cloud and AI-focused engineering opportunit
 - Portfolio: [sandeepbuilds.com](https://sandeepbuilds.com)
 - LinkedIn: [linkedin.com/in/johalsandeep](https://linkedin.com/in/johalsandeep)
 - GitHub: [github.com/sandeepyeg](https://github.com/sandeepyeg)
+- Profile README source: [github.com/sandeepyeg/sandeepyeg](https://github.com/sandeepyeg/sandeepyeg)
 
 ---
 
