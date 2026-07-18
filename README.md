@@ -4,6 +4,8 @@
 
 ### Full-Stack, Cloud and AI-Focused Software Developer
 
+> Building practical software with .NET, Angular, cloud infrastructure and AI-assisted engineering.
+
 I build reliable enterprise applications, cloud integrations, background workflows and practical AI-assisted systems using **.NET**, **Angular**, **TypeScript**, **Azure**, **AWS**, **Docker** and modern software delivery practices.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandeepbuilds.com-5b6cff?style=for-the-badge)](https://sandeepbuilds.com)
