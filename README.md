@@ -90,6 +90,6 @@ I like writing about engineering lessons from real systems:
 
 <div align="center">
 
-**Open to intermediate full-stack, cloud and AI-focused engineering opportunities in Canada.**
+**Building software that stays understandable after deployment.**
 
 </div>
